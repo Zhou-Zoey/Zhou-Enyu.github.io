@@ -26,7 +26,7 @@ My research interests mainly lie in NLP, focusing on LLM alignment and reasoning
 
 # 📚 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/RMB.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/RMB.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(ICLR'2025)** [RMB: Comprehensively Benchmarking Reward Models in LLM Alignment](https://arxiv.org/pdf/2410.09893)
@@ -37,7 +37,7 @@ My research interests mainly lie in NLP, focusing on LLM alignment and reasoning
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/loramoe.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/loramoe.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(ACL'2024)** [LoRAMoE: Alleviating world knowledge forgetting in large language models via MoE-style plugin](https://aclanthology.org/2024.acl-long.106.pdf)

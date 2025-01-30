@@ -71,18 +71,6 @@ Shihan Dou\*, **Enyu Zhou\***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuh
 </div>
 
 
-  
-**(AAAI'2025)** [Alleviating Shifted Distribution in Human Preference Alignment through Meta-Learning](https://arxiv.org/pdf/2405.00438)
-
-Shihan Dou, Yan Liu, **Enyu Zhou**, Tianlong Li, Haoxiang Jia, Limao Xiong, Xin Zhao, Junjie Ye, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang
-
-
-**(ACL'2024)** [Stepcoder: Improve code generation with reinforcement learning from compiler feedback](https://arxiv.org/pdf/2402.01391)
-
-Shihan Dou, Yan Liu, Haoxiang Jia, Limao Xiong, **Enyu Zhou**, Wei Shen, Junjie Shan, Caishuang Huang, Xiao Wang, Xiaoran Fan, Zhiheng Xi, Yuhao Zhou, Tao Ji, Rui Zheng, Qi Zhang, Xuanjing Huang, Tao Gui
-
-
-
 # 🎖 Honors and Awards
 - *2024.12* Fudan University Huatai Securities Technology Scholarship
 - *2023.06* Shanghai Outstanding Graduate Award

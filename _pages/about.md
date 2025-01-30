@@ -36,7 +36,19 @@ My research interests mainly lie in NLP, focusing on LLM alignment and reasoning
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/loramoe.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/metarm.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**(AAAI'2025)** [Alleviating Shifted Distribution in Human Preference Alignment through Meta-Learning](https://arxiv.org/pdf/2405.00438)
+
+Shihan Dou, Yan Liu, **Enyu Zhou**, Tianlong Li, Haoxiang Jia, Limao Xiong, Xin Zhao, Junjie Ye, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang
+
+- Explored challenges of world knowledge forgetting during large-scale fine-tuning and proposed LoRAMoE, an architecture combining LoRA and MoE to mitigate knowledge conflicts and enhance multitask capabilities of LLMs.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/loramoe.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(ACL'2024)** [LoRAMoE: Alleviating world knowledge forgetting in large language models via MoE-style plugin](https://aclanthology.org/2024.acl-long.106.pdf)
@@ -57,7 +69,6 @@ Shihan Dou\*, **Enyu Zhou\***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuh
 - Developed a framework for faithfully characterizing LLM human-like behaviors based on psychometric theories, establishing automatic testing processes and investigating the effects of alignment training.
 </div>
 </div>
-
 
 
   

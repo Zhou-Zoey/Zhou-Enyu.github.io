@@ -24,8 +24,7 @@ I obtained a bachelor's degree from Intelligent Science and Technology (Honors P
 My research interests mainly lie in NLP, focusing on LLM alignment and reasoning.
 
 
-# 📚 Publications 
-
+# 📚 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/RMB.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 

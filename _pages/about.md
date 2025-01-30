@@ -26,7 +26,7 @@ My research interests mainly lie in NLP, focusing on LLM alignment and reasoning
 
 # 📚 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='/images/RMB.jpg' alt="sym" width=80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='/images/RMB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RMB: Comprehensively Benchmarking Reward Models in LLM Alignment](https://arxiv.org/pdf/2410.09893)
@@ -37,7 +37,7 @@ My research interests mainly lie in NLP, focusing on LLM alignment and reasoning
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='/images/loramoe.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='/images/loramoe.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LoRAMoE: Alleviating world knowledge forgetting in large language models via MoE-style plugin](https://aclanthology.org/2024.acl-long.106.pdf)
@@ -48,7 +48,7 @@ Shihan Dou\*, **Enyu Zhou\***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='/images/realbehavior.jpg' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='/images/realbehaviorfull.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RealBehavior: A Framework for Faithfully Characterizing Foundation Models' Human-like Behavior Mechanisms](https://arxiv.org/pdf/2310.11227)

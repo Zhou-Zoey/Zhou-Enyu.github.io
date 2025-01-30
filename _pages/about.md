@@ -25,6 +25,7 @@ My research interests mainly lie in NLP, focusing on LLM alignment and reasoning
 
 
 # 📚 Selected Publications 
+Please refer to [Google Scholar](https://scholar.google.com/citations?user=gWs_6egAAAAJ) for the full publication list.
 <div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/RMB.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +49,7 @@ Shihan Dou, Yan Liu, **Enyu Zhou**, Tianlong Li, Haoxiang Jia, Limao Xiong, Xin 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/loramoe.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/loramoe.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **(ACL'2024)** [LoRAMoE: Alleviating world knowledge forgetting in large language models via MoE-style plugin](https://aclanthology.org/2024.acl-long.106.pdf)

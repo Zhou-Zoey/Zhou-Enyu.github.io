@@ -1,4 +1,4 @@
----
+ß---
 permalink: /
 title: ""
 excerpt: ""
@@ -59,9 +59,9 @@ Shihan Dou\*, **Enyu Zhou\***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuh
 </div>
 </div>
 
-<div class="badge">AAAI 2025</div>
 
-[Alleviating Shifted Distribution in Human Preference Alignment through Meta-Learning](https://arxiv.org/pdf/2405.00438)
+
+``AAAI 2025`` [Alleviating Shifted Distribution in Human Preference Alignment through Meta-Learning](https://arxiv.org/pdf/2405.00438)
 
 Shihan Dou, Yan Liu, **Enyu Zhou**, Tianlong Li, Haoxiang Jia, Limao Xiong, Xin Zhao, Junjie Ye, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang
 

@@ -26,7 +26,7 @@ My research interests mainly lie in NLP, focusing on LLM alignment and reasoning
 
 # 📚 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/RMB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='Zhou-Zoey.github.io/images/RMB.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RMB: Comprehensively Benchmarking Reward Models in LLM Alignment](https://arxiv.org/pdf/2410.09893)
@@ -37,16 +37,34 @@ My research interests mainly lie in NLP, focusing on LLM alignment and reasoning
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/loramoe.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='Zhou-Zoey.github.io/images/loramoe.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LoRAMoE: Alleviating world knowledge forgetting in large language models via MoE-style plugin](https://aclanthology.org/2024.acl-long.106.pdf)
 
-Shihan Dou^*, **Enyu Zhou^***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuhao Zhou, Xiao Wang, Zhiheng Xi, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuan-Jing Huang
+Shihan Dou\*, **Enyu Zhou\***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuhao Zhou, Xiao Wang, Zhiheng Xi, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuan-Jing Huang
 
 - Explored challenges of world knowledge forgetting during large-scale fine-tuning and proposed LoRAMoE, an architecture combining LoRA and MoE to mitigate knowledge conflicts and enhance multitask capabilities of LLMs.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='Zhou-Zoey.github.io/images/realbehavior.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RealBehavior: A Framework for Faithfully Characterizing Foundation Models' Human-like Behavior Mechanisms](https://arxiv.org/pdf/2310.11227)
+
+**Enyu Zhou**, Rui Zheng, Zhiheng Xi, Songyang Gao, Xiaoran Fan, Zichu Fei, Jingting Ye, Tao Gui, Qi Zhang, Xuanjing Huang
+
+- Developed a framework for faithfully characterizing LLM human-like behaviors based on psychometric theories, establishing automatic testing processes and investigating the effects of alignment training.
+</div>
+</div>
+
+<div class="badge">AAAI 2025</div>[Alleviating Shifted Distribution in Human Preference Alignment through Meta-Learning](https://arxiv.org/pdf/2405.00438)
+
+Shihan Dou, Yan Liu, **Enyu Zhou**, Tianlong Li, Haoxiang Jia, Limao Xiong, Xin Zhao, Junjie Ye, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang
+
+<div class="badge">ACL 2024</div>[Stepcoder: Improve code generation with reinforcement learning from compiler feedback](https://arxiv.org/pdf/2402.01391)
+Shihan Dou, Yan Liu, Haoxiang Jia, Limao Xiong, **Enyu Zhou**, Wei Shen, Junjie Shan, Caishuang Huang, Xiao Wang, Xiaoran Fan, Zhiheng Xi, Yuhao Zhou, Tao Ji, Rui Zheng, Qi Zhang, Xuanjing Huang, Tao Gui
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**

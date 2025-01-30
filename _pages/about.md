@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# Zhou Enyu (周恩宇）
+# Zhou Enyu (周恩宇)
 I am a Ph.D student in School of Computer Science at Fudan University, advised by [Prof.Xuanjing Huang](https://scholar.google.com/citations?user=RGsMgZA4H78C). 
 
 I obtained a bachelor's degree from Intelligent Science and Technology (Honors Program) at Fudan University.

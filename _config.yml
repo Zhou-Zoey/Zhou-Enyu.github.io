@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhou Enyu (周恩宇)"
+  name             : "Zhou Enyu"
   avatar           : "images/WechatIMG992.jpg"
   bio              : "Fudan University"
   location         : "Shanghai, China"

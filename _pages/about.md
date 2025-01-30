@@ -26,10 +26,10 @@ My research interests mainly lie in NLP, focusing on LLM alignment and reasoning
 
 # 📚 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/RMB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/RMB.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(ICLR'2025)**[RMB: Comprehensively Benchmarking Reward Models in LLM Alignment](https://arxiv.org/pdf/2410.09893)
+**(ICLR'2025)** [RMB: Comprehensively Benchmarking Reward Models in LLM Alignment](https://arxiv.org/pdf/2410.09893)
 
 **Enyu Zhou**, Guodong Zheng, Binghai Wang, Zhiheng Xi, Shihan Dou, Rong Bao, Wei Shen, Limao Xiong, Jessica Fan, Yurong Mou, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang
 
@@ -37,10 +37,10 @@ My research interests mainly lie in NLP, focusing on LLM alignment and reasoning
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/loramoe.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/loramoe.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(ACL'2024)**[LoRAMoE: Alleviating world knowledge forgetting in large language models via MoE-style plugin](https://aclanthology.org/2024.acl-long.106.pdf)
+**(ACL'2024)** [LoRAMoE: Alleviating world knowledge forgetting in large language models via MoE-style plugin](https://aclanthology.org/2024.acl-long.106.pdf)
 
 Shihan Dou\*, **Enyu Zhou\***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuhao Zhou, Xiao Wang, Zhiheng Xi, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuan-Jing Huang
 
@@ -51,7 +51,7 @@ Shihan Dou\*, **Enyu Zhou\***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuh
 <div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/realbehaviorfull.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**(EMNLP'2023)**[RealBehavior: A Framework for Faithfully Characterizing Foundation Models' Human-like Behavior Mechanisms](https://arxiv.org/pdf/2310.11227)
+**(EMNLP'2023)** [RealBehavior: A Framework for Faithfully Characterizing Foundation Models' Human-like Behavior Mechanisms](https://arxiv.org/pdf/2310.11227)
 
 **Enyu Zhou**, Rui Zheng, Zhiheng Xi, Songyang Gao, Xiaoran Fan, Zichu Fei, Jingting Ye, Tao Gui, Qi Zhang, Xuanjing Huang
 
@@ -62,12 +62,12 @@ Shihan Dou\*, **Enyu Zhou\***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuh
 
 
   
-**(AAAI'2025)**[Alleviating Shifted Distribution in Human Preference Alignment through Meta-Learning](https://arxiv.org/pdf/2405.00438)
+**(AAAI'2025)** [Alleviating Shifted Distribution in Human Preference Alignment through Meta-Learning](https://arxiv.org/pdf/2405.00438)
 
 Shihan Dou, Yan Liu, **Enyu Zhou**, Tianlong Li, Haoxiang Jia, Limao Xiong, Xin Zhao, Junjie Ye, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang
 
 
-**(ACL'2024)**[Stepcoder: Improve code generation with reinforcement learning from compiler feedback](https://arxiv.org/pdf/2402.01391)
+**(ACL'2024)** [Stepcoder: Improve code generation with reinforcement learning from compiler feedback](https://arxiv.org/pdf/2402.01391)
 
 Shihan Dou, Yan Liu, Haoxiang Jia, Limao Xiong, **Enyu Zhou**, Wei Shen, Junjie Shan, Caishuang Huang, Xiao Wang, Xiaoran Fan, Zhiheng Xi, Yuhao Zhou, Tao Ji, Rui Zheng, Qi Zhang, Xuanjing Huang, Tao Gui
 

@@ -45,7 +45,7 @@ Please visit my [Google Scholar](https://scholar.google.com/citations?user=gWs_6
 
 Shihan Dou, Yan Liu, **Enyu Zhou**, Tianlong Li, Haoxiang Jia, Limao Xiong, Xin Zhao, Junjie Ye, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang
 
-- Explored challenges of world knowledge forgetting during large-scale fine-tuning and proposed LoRAMoE, an architecture combining LoRA and MoE to mitigate knowledge conflicts and enhance multitask capabilities of LLMs.
+- Proposed a meta-learning method to address distribution shifts in RLHF by alternating optimization of the reward model to adapt to shifted samples and distributions.
 </div>
 </div>
 

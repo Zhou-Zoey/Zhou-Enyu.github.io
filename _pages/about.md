@@ -25,7 +25,7 @@ My research interests mainly lie in NLP, focusing on LLM alignment and reasoning
 
 
 # 📚 Selected Publications 
-Please visit [Google Scholar](https://scholar.google.com/citations?user=gWs_6egAAAAJ) for the full publication list.
+Please visit my [Google Scholar](https://scholar.google.com/citations?user=gWs_6egAAAAJ) page for the full publication list.
 <div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><img src='/images/RMB.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 

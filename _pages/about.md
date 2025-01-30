@@ -48,7 +48,7 @@ Shihan Dou\*, **Enyu Zhou\***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='/images/realbehaviorfull.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'  style="text-align: center;"><div><div class="badge">EMNLP 2023</div><img src='/images/realbehaviorfull.jpg' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RealBehavior: A Framework for Faithfully Characterizing Foundation Models' Human-like Behavior Mechanisms](https://arxiv.org/pdf/2310.11227)
@@ -61,12 +61,12 @@ Shihan Dou\*, **Enyu Zhou\***, Yan Liu, Songyang Gao, Wei Shen, Limao Xiong, Yuh
 
 
 
--``AAAI 2025`` [Alleviating Shifted Distribution in Human Preference Alignment through Meta-Learning](https://arxiv.org/pdf/2405.00438)
+- ``AAAI 2025`` [Alleviating Shifted Distribution in Human Preference Alignment through Meta-Learning](https://arxiv.org/pdf/2405.00438)
 
 Shihan Dou, Yan Liu, **Enyu Zhou**, Tianlong Li, Haoxiang Jia, Limao Xiong, Xin Zhao, Junjie Ye, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang
 
 
--``ACL 2024`` [Stepcoder: Improve code generation with reinforcement learning from compiler feedback](https://arxiv.org/pdf/2402.01391)
+- ``ACL 2024`` [Stepcoder: Improve code generation with reinforcement learning from compiler feedback](https://arxiv.org/pdf/2402.01391)
 
 Shihan Dou, Yan Liu, Haoxiang Jia, Limao Xiong, **Enyu Zhou**, Wei Shen, Junjie Shan, Caishuang Huang, Xiao Wang, Xiaoran Fan, Zhiheng Xi, Yuhao Zhou, Tao Ji, Rui Zheng, Qi Zhang, Xuanjing Huang, Tao Gui
 

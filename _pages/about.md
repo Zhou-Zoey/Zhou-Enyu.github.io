@@ -80,5 +80,5 @@ Shihan Dou, Yan Liu, Haoxiang Jia, Limao Xiong, **Enyu Zhou**, Wei Shen, Junjie 
 - *2021.12* "Top Ten Students", School of Information Science and Engineering, Fudan University
 
 # 📖 Educations
-- *2023.06 - Present *, School of Computer Science, Fudan University
+- *2023.06 - Present*, School of Computer Science, Fudan University
 - *2019.09 - 2023.06*, School of Information Science and Technology, Fudan University
